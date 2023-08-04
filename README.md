@@ -70,3 +70,6 @@ Now some goodie pictures, enjoy:
 ![8F7DC67E-D30E-420F-A9AB-233486E9BA2B_1_105_c](https://github.com/protieusz/Batarang-Ortho-Version/assets/118025702/4cea34ac-dbb5-4ccb-a290-012d75569086)
 
 ![1CF3A752-0797-4691-BFE3-05B084D2CAC4_1_105_c](https://github.com/protieusz/Batarang-Ortho-Version/assets/118025702/0001c68f-c773-4159-bb6d-992ee27a84ff)
+
+Video of the glowing eyes in action
+https://www.instagram.com/reel/CvgO2RXpbrl/?igshid=MzRlODBiNWFlZA==
