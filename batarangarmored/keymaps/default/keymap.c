@@ -82,8 +82,10 @@ _______, _______, _______, _______, _______, _______,          _______, KC_F9, K
 //}
 
 #if defined(ENCODER_MAP_ENABLE)
-const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {
-    [0] =  { ENCODER_CCW_CW(KC_MS_WH_UP, KC_MS_WH_DOWN)  },
-    [1] =  { ENCODER_CCW_CW(KC_VOLD, KC_VOLU)  }
+const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
+    [0] =  { ENCODER_CCW_CW(KC_MS_WH_DOWN, KC_MS_WH_UP)  },
+    [1] =  { ENCODER_CCW_CW(KC_VOLU, KC_VOLD)  },
+    [2] =  { ENCODER_CCW_CW(XXXXXXX, XXXXXXX)  },
+    [3] =  { ENCODER_CCW_CW(XXXXXXX, XXXXXXX) }
 };
 #endif
