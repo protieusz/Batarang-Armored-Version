@@ -5,6 +5,8 @@ Thank you ![PCBWay](https://github.com/protieusz/Batarang-Ortho-Version/assets/1
 
 Now let's talk about what this Batarang Armored version is all about.  I decided this time to play it safe this time and design the pcb using a Pico RP2040 as the mcu instead of designing an integrated RP2040.  The pcb has rgb strip pads with a single diode hack that can output 4.3v logic by using a sacrificial RGB. More info is here: [Diode RGB hack](//hackaday.com/2017/01/20/cheating-at-5v-ws2812-control-to-use-a-3-3v-data-line\://www.google.com) . The RGBs are use for the eyes.  Batarang Ortho has a large 35mm knob and a 40mm Cirque trackpad.  The knob functions as a wheel up/down, wheel left/right and volume. The J connector doesn't seem to be working.  It could be my soldering issue or the mapping is incorrect. But the regular pads are working for the Cirque.  I will make corrections to the J connector mapping in the future.  All the wires are hidden so everything is nice and clean.
 
+I accept any tips or donations of a cup of coffee to help keep me motivate but you don't have to if you don't want to. Thanks. https://ko-fi.com/protieusz
+
 Now some goodie pictures, enjoy:
 
 ![E20208C3-72F6-43C6-8980-2F17E11C6A69](https://github.com/protieusz/Batarang-Ortho-Version/assets/118025702/0587e6cc-d00f-42a7-8192-444bda27bdd5)
